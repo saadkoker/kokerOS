@@ -17,22 +17,34 @@ public/Users/Public/**
 
 !public/Users/**/desktop.ini
 !public/Users/Public/Desktop
-!public/Users/Public/Desktop/My PC.url
-!public/Users/Public/Desktop/Public.url
+!public/Users/Public/Desktop/*
+!public/Users/Public/Desktop/*.url
+!public/Users/Public/Desktop/*.txt
+!public/Users/Public/Desktop/*.png
+!public/Users/Public/Desktop/*.jpg
+!public/Users/Public/Desktop/*.jpeg
+!public/Users/Public/Desktop/*.gif
+!public/Users/Public/Desktop/*.bmp
+!public/Users/Public/Desktop/*.webp
+!public/Users/Public/Desktop/*.lnk
 !public/Users/Public/Documents
 !public/Users/Public/Music
 !public/Users/Public/Pictures
-!public/Users/Public/Pictures/prompts.json
-!public/Users/Public/Pictures/slideshow.json
-!public/Users/Public/Start Menu
-!public/Users/Public/Start Menu/*.url
-!public/Users/Public/Start Menu/Emulators
-!public/Users/Public/Start Menu/Emulators/*.url
-!public/Users/Public/Start Menu/Games
-!public/Users/Public/Start Menu/Games/Chrome Dino.url
-!public/Users/Public/Start Menu/Games/ClassiCube.url
-!public/Users/Public/Start Menu/Games/DX-Ball.url
-!public/Users/Public/Start Menu/Games/Quake III Arena.url
-!public/Users/Public/Start Menu/Games/Space Cadet.url
+!public/Users/Public/Pictures/*.json
+!public/Users/Public/Pictures/Life
+!public/Users/Public/Pictures/Life/*.jpg
+!public/Users/Public/Pictures/Life/*.jpeg
+!public/Users/Public/Pictures/Life/*.png
+!public/Users/Public/Pictures/Life/*.gif
+!public/Users/Public/Pictures/Life/*.bmp
+!public/Users/Public/Pictures/Life/*.webp
 !public/Users/Public/Videos
-public/Users/.DS_Store
+!public/Users/Public/Videos/*.mp4
+!public/Users/Public/Videos/*.avi
+!public/Users/Public/Videos/*.mkv
+!public/Users/Public/Videos/*.mov
+!public/Users/Public/Videos/*.wmv
+!public/Users/Public/Videos/*.flv
+
+.DS_Store
+*.py

@@ -1,0 +1,175 @@
+<div class="container">
+<h1>About Me</h1>
+<p>Hi, I'm <strong>Saad Koker </strong>-&nbsp;a Computer Science student at the University of Western Ontario (UWO). My passion lies primarily in back-end development, where I find <strong>Java</strong> to be my go-to programming language. However, I'm equally comfortable working with <strong>Python</strong> and <strong>C++</strong>, having gathered extensive experience with both.</p>
+<h2>Outside the Code</h2>
+<p>Outside of school and coding, my interests are diverse:</p>
+<ul>
+<li><strong>Football</strong> (yes, I said it right) -&nbsp;I'm an avid supporter of <strong>Arsenal FC</strong> and have been lucky enough to see them play live.</li>
+<li><strong>Audio Engineering</strong></li>
+<li><strong>PC Hardware</strong></li>
+</ul>
+<h2>Current Projects:&nbsp;</h2>
+<h3>Tacticl</h3>
+<p>Currently, I'm working on an exciting iOS app called <strong>Tacticl</strong>, developed using Swift. Here's the executive summary:</p>
+<blockquote>
+<p><em>TACTICL is an organization and route optimization app designed for trade marketers (TMs) and managers working for large-scale Fast-Moving Consumer Goods (FMCG) companies. Built alongside trade marketers, TACTICL aims to streamline field sales operations by helping users efficiently plan store visits, manage accounts, prioritize tasks, and optimize travel routes. The goal is to develop a simple, functional app that improves productivity and coordination between field representatives and their managers.</em></p>
+</blockquote>
+<p>&nbsp;</p>
+<h3>One More, Boys</h3>
+<p>I'm also working on another iOS app called <strong>One More, Boys</strong>, using SwiftUI. Here is it's executive summary:</p>
+<blockquote>
+<p data-start="136" data-end="513"><strong data-start="136" data-end="154"><span class="_fadeIn_m1hgl_8">One </span><span class="_fadeIn_m1hgl_8">More, </span><span class="_fadeIn_m1hgl_8">Boys</span></strong> <span class="_fadeIn_m1hgl_8">is </span><span class="_fadeIn_m1hgl_8">a </span><span class="_fadeIn_m1hgl_8">community-</span><span class="_fadeIn_m1hgl_8">driven </span><span class="_fadeIn_m1hgl_8">mobile </span><span class="_fadeIn_m1hgl_8">app </span><span class="_fadeIn_m1hgl_8">that </span><span class="_fadeIn_m1hgl_8">gamifies </span><span class="_fadeIn_m1hgl_8">and </span><span class="_fadeIn_m1hgl_8">enhances </span><span class="_fadeIn_m1hgl_8">group </span><span class="_fadeIn_m1hgl_8">drink </span><span class="_fadeIn_m1hgl_8">tracking </span><span class="_fadeIn_m1hgl_8">and </span><span class="_fadeIn_m1hgl_8">social </span><span class="_fadeIn_m1hgl_8">interaction </span><span class="_fadeIn_m1hgl_8">through </span><span class="_fadeIn_m1hgl_8">real-</span><span class="_fadeIn_m1hgl_8">time </span><span class="_fadeIn_m1hgl_8">location </span><span class="_fadeIn_m1hgl_8">sharing, </span><span class="_fadeIn_m1hgl_8">photo </span><span class="_fadeIn_m1hgl_8">sharing, </span><span class="_fadeIn_m1hgl_8">and </span><span class="_fadeIn_m1hgl_8">drink </span><span class="_fadeIn_m1hgl_8">logging. </span><span class="_fadeIn_m1hgl_8">Designed </span><span class="_fadeIn_m1hgl_8">in </span><span class="_fadeIn_m1hgl_8">SwiftUI </span><span class="_fadeIn_m1hgl_8">for </span><span class="_fadeIn_m1hgl_8">iOS </span><span class="_fadeIn_m1hgl_8">17+ </span><span class="_fadeIn_m1hgl_8">and </span><span class="_fadeIn_m1hgl_8">powered </span><span class="_fadeIn_m1hgl_8">by </span><span class="_fadeIn_m1hgl_8">Firebase, </span><span class="_fadeIn_m1hgl_8">the </span><span class="_fadeIn_m1hgl_8">app </span><span class="_fadeIn_m1hgl_8">delivers </span><span class="_fadeIn_m1hgl_8">a </span><span class="_fadeIn_m1hgl_8">seamless </span><span class="_fadeIn_m1hgl_8">and </span><span class="_fadeIn_m1hgl_8">playful </span><span class="_fadeIn_m1hgl_8">experience </span><span class="_fadeIn_m1hgl_8">centered </span><span class="_fadeIn_m1hgl_8">around </span><span class="_fadeIn_m1hgl_8">camaraderie </span><span class="_fadeIn_m1hgl_8">and </span><span class="_fadeIn_m1hgl_8">accountability </span><span class="_fadeIn_m1hgl_8">in </span><span class="_fadeIn_m1hgl_8">social </span><span class="_fadeIn_m1hgl_8">drinking </span><span class="_fadeIn_m1hgl_8">scenarios.</span></p>
+<p data-start="515" data-end="805"><span class="_fadeIn_m1hgl_8">Users </span><span class="_fadeIn_m1hgl_8">can </span><span class="_fadeIn_m1hgl_8">anonymously </span><span class="_fadeIn_m1hgl_8">onboard </span><span class="_fadeIn_m1hgl_8">with </span><span class="_fadeIn_m1hgl_8">a </span><span class="_fadeIn_m1hgl_8">name </span><span class="_fadeIn_m1hgl_8">and </span><span class="_fadeIn_m1hgl_8">profile </span><span class="_fadeIn_m1hgl_8">picture, </span><span class="_fadeIn_m1hgl_8">then </span><span class="_fadeIn_m1hgl_8">join </span><span class="_fadeIn_m1hgl_8">the </span><span class="_fadeIn_m1hgl_8">shared </span><span class="_fadeIn_m1hgl_8">counter </span><span class="_fadeIn_m1hgl_8">where </span><span class="_fadeIn_m1hgl_8">they </span><span class="_fadeIn_m1hgl_8">log </span><span class="_fadeIn_m1hgl_8">each </span><span class="_fadeIn_m1hgl_8">drink&mdash;</span><span class="_fadeIn_m1hgl_8">optionally </span><span class="_fadeIn_m1hgl_8">attaching </span><span class="_fadeIn_m1hgl_8">a </span><span class="_fadeIn_m1hgl_8">photo </span><span class="_fadeIn_m1hgl_8">and </span><span class="_fadeIn_m1hgl_8">location. </span><span class="_fadeIn_m1hgl_8">Each </span><span class="_fadeIn_m1hgl_8">shot </span><span class="_fadeIn_m1hgl_8">contributes </span><span class="_fadeIn_m1hgl_8">to </span><span class="_fadeIn_m1hgl_8">a </span><span class="_fadeIn_m1hgl_8">live-</span><span class="_fadeIn_m1hgl_8">updating </span><span class="_fadeIn_m1hgl_8">leaderboard, </span><span class="_fadeIn_m1hgl_8">showcasing </span><span class="_fadeIn_m1hgl_8">who&rsquo;s &ldquo;</span><span class="_fadeIn_m1hgl_8">putting </span><span class="_fadeIn_m1hgl_8">in </span><span class="_fadeIn_m1hgl_8">work&rdquo; </span><span class="_fadeIn_m1hgl_8">with </span><span class="_fadeIn_m1hgl_8">drink </span><span class="_fadeIn_m1hgl_8">types </span><span class="_fadeIn_m1hgl_8">and </span><span class="_fadeIn_m1hgl_8">personalized </span><span class="_fadeIn_m1hgl_8">stats.</span></p>
+<p data-start="807" data-end="828"><span class="_fadeIn_m1hgl_8">Key </span><span class="_fadeIn_m1hgl_8">features </span><span class="_fadeIn_m1hgl_8">include:</span></p>
+<ul data-start="830" data-end="1742">
+<li data-start="830" data-end="986">
+<p data-start="832" data-end="986"><span class="_fadeIn_m1hgl_8">📸 </span><strong data-start="835" data-end="852"><span class="_fadeIn_m1hgl_8">Drink </span><span class="_fadeIn_m1hgl_8">Logging</span></strong><span class="_fadeIn_m1hgl_8">: </span><span class="_fadeIn_m1hgl_8">Select </span><span class="_fadeIn_m1hgl_8">from </span><span class="_fadeIn_m1hgl_8">a </span><span class="_fadeIn_m1hgl_8">wide </span><span class="_fadeIn_m1hgl_8">variety </span><span class="_fadeIn_m1hgl_8">of </span><span class="_fadeIn_m1hgl_8">drinks </span><span class="_fadeIn_m1hgl_8">or </span><span class="_fadeIn_m1hgl_8">add </span><span class="_fadeIn_m1hgl_8">custom </span><span class="_fadeIn_m1hgl_8">entries, </span><span class="_fadeIn_m1hgl_8">capture </span><span class="_fadeIn_m1hgl_8">moments </span><span class="_fadeIn_m1hgl_8">with </span><span class="_fadeIn_m1hgl_8">the </span><span class="_fadeIn_m1hgl_8">camera </span><span class="_fadeIn_m1hgl_8">or </span><span class="_fadeIn_m1hgl_8">photo </span><span class="_fadeIn_m1hgl_8">library, </span><span class="_fadeIn_m1hgl_8">and </span><span class="_fadeIn_m1hgl_8">geotag </span><span class="_fadeIn_m1hgl_8">your </span><span class="_fadeIn_m1hgl_8">shots.</span></p>
+</li>
+<li data-start="987" data-end="1151">
+<p data-start="989" data-end="1151"><span class="_fadeIn_m1hgl_8">🗺️ </span><strong data-start="993" data-end="1012"><span class="_fadeIn_m1hgl_8">Map </span><span class="_fadeIn_m1hgl_8">Integration</span></strong><span class="_fadeIn_m1hgl_8">: </span><span class="_fadeIn_m1hgl_8">View </span><span class="_fadeIn_m1hgl_8">all </span><span class="_fadeIn_m1hgl_8">shots </span><span class="_fadeIn_m1hgl_8">on </span><span class="_fadeIn_m1hgl_8">a </span><span class="_fadeIn_m1hgl_8">dynamic </span><span class="_fadeIn_m1hgl_8">map, </span><span class="_fadeIn_m1hgl_8">filterable </span><span class="_fadeIn_m1hgl_8">by </span><span class="_fadeIn_m1hgl_8">user </span><span class="_fadeIn_m1hgl_8">and </span><span class="_fadeIn_m1hgl_8">time, </span><span class="_fadeIn_m1hgl_8">with </span><span class="_fadeIn_m1hgl_8">tappable </span><span class="_fadeIn_m1hgl_8">annotations </span><span class="_fadeIn_m1hgl_8">for </span><span class="_fadeIn_m1hgl_8">quick </span><span class="_fadeIn_m1hgl_8">previews </span><span class="_fadeIn_m1hgl_8">and </span><span class="_fadeIn_m1hgl_8">directions </span><span class="_fadeIn_m1hgl_8">via </span><span class="_fadeIn_m1hgl_8">Apple </span><span class="_fadeIn_m1hgl_8">Maps.</span></p>
+</li>
+<li data-start="1152" data-end="1329">
+<p data-start="1154" data-end="1329"><span class="_fadeIn_m1hgl_8">📥 </span><strong data-start="1157" data-end="1174"><span class="_fadeIn_m1hgl_8">Shot </span><span class="_fadeIn_m1hgl_8">Requests</span></strong><span class="_fadeIn_m1hgl_8">: </span><span class="_fadeIn_m1hgl_8">Send </span><span class="_fadeIn_m1hgl_8">shot </span><span class="_fadeIn_m1hgl_8">invites </span><span class="_fadeIn_m1hgl_8">to </span><span class="_fadeIn_m1hgl_8">friends </span><span class="_fadeIn_m1hgl_8">or </span><span class="_fadeIn_m1hgl_8">the </span><span class="_fadeIn_m1hgl_8">whole </span><span class="_fadeIn_m1hgl_8">group </span><span class="_fadeIn_m1hgl_8">with </span><span class="_fadeIn_m1hgl_8">a </span><span class="_fadeIn_m1hgl_8">specific </span><span class="_fadeIn_m1hgl_8">meetup </span><span class="_fadeIn_m1hgl_8">location. </span><span class="_fadeIn_m1hgl_8">Users </span><span class="_fadeIn_m1hgl_8">can </span><span class="_fadeIn_m1hgl_8">respond </span><span class="_fadeIn_m1hgl_8">via </span><span class="_fadeIn_m1hgl_8">push </span><span class="_fadeIn_m1hgl_8">notifications </span><span class="_fadeIn_m1hgl_8">and </span><span class="_fadeIn_m1hgl_8">see </span><span class="_fadeIn_m1hgl_8">responses </span><span class="_fadeIn_m1hgl_8">in </span><span class="_fadeIn_m1hgl_8">real-</span><span class="_fadeIn_m1hgl_8">time.</span></p>
+</li>
+<li data-start="1330" data-end="1476">
+<p data-start="1332" data-end="1476"><span class="_fadeIn_m1hgl_8">🔔 </span><strong data-start="1335" data-end="1362"><span class="_fadeIn_m1hgl_8">Real-</span><span class="_fadeIn_m1hgl_8">Time </span><span class="_fadeIn_m1hgl_8">Notifications</span></strong><span class="_fadeIn_m1hgl_8">: </span><span class="_fadeIn_m1hgl_8">Leveraging </span><span class="_fadeIn_m1hgl_8">Firebase </span><span class="_fadeIn_m1hgl_8">Cloud </span><span class="_fadeIn_m1hgl_8">Messaging, </span><span class="_fadeIn_m1hgl_8">users </span><span class="_fadeIn_m1hgl_8">are </span><span class="_fadeIn_m1hgl_8">notified </span><span class="_fadeIn_m1hgl_8">instantly </span><span class="_fadeIn_m1hgl_8">when </span><span class="_fadeIn_m1hgl_8">new </span><span class="_fadeIn_m1hgl_8">shots </span><span class="_fadeIn_m1hgl_8">are </span><span class="_fadeIn_m1hgl_8">taken </span><span class="_fadeIn_m1hgl_8">or </span><span class="_fadeIn_m1hgl_8">requests </span><span class="_fadeIn_m1hgl_8">are </span><span class="_fadeIn_m1hgl_8">sent.</span></p>
+</li>
+<li data-start="1477" data-end="1620">
+<p data-start="1479" data-end="1620"><span class="_fadeIn_m1hgl_8">🏆 </span><strong data-start="1482" data-end="1497"><span class="_fadeIn_m1hgl_8">Leaderboard</span></strong><span class="_fadeIn_m1hgl_8">: </span><span class="_fadeIn_m1hgl_8">Celebrate </span><span class="_fadeIn_m1hgl_8">community </span><span class="_fadeIn_m1hgl_8">participation </span><span class="_fadeIn_m1hgl_8">with </span><span class="_fadeIn_m1hgl_8">a </span><span class="_fadeIn_m1hgl_8">ranking </span><span class="_fadeIn_m1hgl_8">of </span><span class="_fadeIn_m1hgl_8">users </span><span class="_fadeIn_m1hgl_8">based </span><span class="_fadeIn_m1hgl_8">on </span><span class="_fadeIn_m1hgl_8">drink </span><span class="_fadeIn_m1hgl_8">count, </span><span class="_fadeIn_m1hgl_8">complete </span><span class="_fadeIn_m1hgl_8">with </span><span class="_fadeIn_m1hgl_8">profile </span><span class="_fadeIn_m1hgl_8">pictures </span><span class="_fadeIn_m1hgl_8">and </span><span class="_fadeIn_m1hgl_8">stats.</span></p>
+</li>
+<li data-start="1621" data-end="1742">
+<p data-start="1623" data-end="1742"><span class="_fadeIn_m1hgl_8">🧪 </span><strong data-start="1626" data-end="1639"><span class="_fadeIn_m1hgl_8">Misc </span><span class="_fadeIn_m1hgl_8">Mode</span></strong><span class="_fadeIn_m1hgl_8">: </span><span class="_fadeIn_m1hgl_8">A </span><span class="_fadeIn_m1hgl_8">secondary </span><span class="_fadeIn_m1hgl_8">tab </span><span class="_fadeIn_m1hgl_8">for </span><span class="_fadeIn_m1hgl_8">experimental </span><span class="_fadeIn_m1hgl_8">or </span><span class="_fadeIn_m1hgl_8">upcoming </span><span class="_fadeIn_m1hgl_8">features </span><span class="_fadeIn_m1hgl_8">such </span><span class="_fadeIn_m1hgl_8">as </span><span class="_fadeIn_m1hgl_8">room </span><span class="_fadeIn_m1hgl_8">statuses </span><span class="_fadeIn_m1hgl_8">and </span><span class="_fadeIn_m1hgl_8">non-</span><span class="_fadeIn_m1hgl_8">drinking </span><span class="_fadeIn_m1hgl_8">actions.</span></p>
+</li>
+</ul>
+<p data-start="1744" data-end="1940"><span class="_fadeIn_m1hgl_8">The </span><span class="_fadeIn_m1hgl_8">app </span><span class="_fadeIn_m1hgl_8">places </span><span class="_fadeIn_m1hgl_8">strong </span><span class="_fadeIn_m1hgl_8">emphasis </span><span class="_fadeIn_m1hgl_8">on </span><span class="_fadeIn_m1hgl_8">lightweight </span><span class="_fadeIn_m1hgl_8">interaction, </span><span class="_fadeIn_m1hgl_8">real-</span><span class="_fadeIn_m1hgl_8">time </span><span class="_fadeIn_m1hgl_8">presence, </span><span class="_fadeIn_m1hgl_8">and </span><span class="_fadeIn_m1hgl_8">shared </span><span class="_fadeIn_m1hgl_8">experience&mdash;</span><span class="_fadeIn_m1hgl_8">turning </span><span class="_fadeIn_m1hgl_8">every </span><span class="_fadeIn_m1hgl_8">drink </span><span class="_fadeIn_m1hgl_8">into </span><span class="_fadeIn_m1hgl_8">a </span><span class="_fadeIn_m1hgl_8">group </span><span class="_fadeIn_m1hgl_8">event, </span><span class="_fadeIn_m1hgl_8">whether </span><span class="_fadeIn_m1hgl_8">your </span><span class="_fadeIn_m1hgl_8">friends </span><span class="_fadeIn_m1hgl_8">are </span><span class="_fadeIn_m1hgl_8">beside </span><span class="_fadeIn_m1hgl_8">you </span><span class="_fadeIn_m1hgl_8">or </span><span class="_fadeIn_m1hgl_8">across </span><span class="_fadeIn_m1hgl_8">the </span><span class="_fadeIn_m1hgl_8">city.</span></p>
+</blockquote>
+<h1>ExposeBot &ndash; Executive Summary</h1>
+<p><strong>ExposeBot</strong> is a custom-built Discord automation and engagement platform designed to foster community activity, reward participation, and blend entertainment with moderation. Originally developed for a tight-knit, high-energy Discord server, ExposeBot has evolved into a versatile ecosystem that gamifies interactions, leverages AI for dynamic content, and builds a lasting social culture.</p>
+<p>At its core, ExposeBot combines a virtual economy, AI-powered utilities, and uniquely social features&mdash;like the &ldquo;Expose Bank&rdquo;&mdash;to keep users coming back daily. It rewards users with credits for playing games, participating in trivia, and even winning League of Legends matches. These credits can be spent, gambled, or used to impact other members (e.g., timeouts, nickname changes), creating a self-sustaining loop of engagement and chaos.</p>
+<p>Beyond gameplay, ExposeBot handles daily announcements, sends motivational SMS messages via Twilio, logs meaningful user messages for future games, and offers powerful moderation tools disguised as entertainment. It integrates GPT and Claude for AI-driven conversation, DALL&middot;E for image generation, and multiple APIs to make each interaction feel personalized and fun.</p>
+<p><strong>ExposeBot is not just a bot&mdash;it&rsquo;s a server&rsquo;s personality engine.</strong> It promotes retention, encourages creativity, and gives community members the tools to roast, reward, or ruin each other in the most engaging way possible.</p>
+<h2>🔧 Technical Spec Sheet</h2>
+<table>
+<tbody>
+<tr>
+<th>Component</th>
+<th>Description</th>
+</tr>
+<tr>
+<td><strong>Language</strong></td>
+<td>Python 3.10+</td>
+</tr>
+<tr>
+<td><strong>Framework</strong></td>
+<td>discord.py (commands.Bot, tasks.loop)</td>
+</tr>
+<tr>
+<td><strong>Database</strong></td>
+<td>JSON (primary), MySQL (image metadata)</td>
+</tr>
+<tr>
+<td><strong>AI Integrations</strong></td>
+<td>OpenAI (Chat &amp; Image), Anthropic Claude</td>
+</tr>
+<tr>
+<td><strong>External APIs</strong></td>
+<td>Riot Games API, Twilio, YouTube-DL</td>
+</tr>
+<tr>
+<td><strong>Voice</strong></td>
+<td>Google TTS (gTTS), FFmpeg</td>
+</tr>
+<tr>
+<td><strong>Deployment</strong></td>
+<td>Persistent server via tmux; configured via .env</td>
+</tr>
+<tr>
+<td><strong>Storage</strong></td>
+<td>Local files (images, music), JSON state tracking</td>
+</tr>
+<tr>
+<td><strong>Permissions</strong></td>
+<td>Message reading/sending, VC access, nickname &amp; timeout control</td>
+</tr>
+</tbody>
+</table>
+<h2>🌟 Feature List</h2>
+<details open="">
+<summary>🎮 Economy &amp; Games</summary>
+<ul>
+<li><code>!balance</code>, <code>!transfer</code>, <code>!pocketwatch</code> (leaderboard)</li>
+<li>Blackjack with dealer AI</li>
+<li>Dice roll with 6&times; payout</li>
+<li>Trivia: Guess who said the message (based on user ID)</li>
+<li>Robbing, begging, timeout commands tied to economy</li>
+<li>League of Legends win-based credit rewards</li>
+<li>Cooldown-protected daily <code>!beg</code> and automatic <code>dailyReward</code></li>
+</ul>
+</details>
+<details open="">
+<summary>🧠 AI-Powered Tools</summary>
+<ul>
+<li><code>!gpt</code> &ndash; Ask Claude as a strict principal character</li>
+<li><code>!imagine</code> &ndash; DALL&middot;E 3 image generation</li>
+<li><code>!quiz</code> &ndash; Multiplayer trivia via Open Trivia DB</li>
+<li>Claude-powered motivational SMS messages via Twilio</li>
+</ul>
+</details>
+<details open="">
+<summary>📁 Expose System</summary>
+<ul>
+<li><code>!expose &lt;name&gt;</code> &ndash; Sends a random image from named bank</li>
+<li>Images logged from <code>#expose-bank</code> with MySQL metadata</li>
+<li>De-duplication via byte comparison</li>
+<li>Feeds directly into trivia logging and exposure tracking</li>
+</ul>
+</details>
+<details open="">
+<summary>🔊 Audio &amp; Voice</summary>
+<ul>
+<li><code>!music</code> &ndash; Play music from URL or preset folder</li>
+<li><code>!talk</code> &ndash; Google TTS voice messages in VC</li>
+<li><code>!leave</code>, <code>!pause</code>, <code>!resume</code> for media control</li>
+</ul>
+</details>
+<details open="">
+<summary>🎤 Social &amp; Voice Automation</summary>
+<ul>
+<li><code>!createteams</code> &ndash; Randomly assign VC members into teams</li>
+<li><code>!wehavesix</code> &ndash; Random picker from VC</li>
+<li><code>!nickname</code> &ndash; Paid nickname changes</li>
+<li><code>!timeout</code> &ndash; Paid timeouts that reward the victim</li>
+</ul>
+</details>
+<details open="">
+<summary>📆 Real-Time Tools &amp; Scheduling</summary>
+<ul>
+<li><code>!fixtures</code> &ndash; BBC football fixture scraping with timezone conversion</li>
+<li><code>!remind</code> &ndash; SMS reminders via Twilio</li>
+<li><code>!iftar</code> &ndash; Iftar/Suhur times by city (CSV)</li>
+</ul>
+</details>
+<h2>&nbsp;</h2>
+<h2>Where I've Been</h2>
+<p>Traveling is a big part of my life. I&rsquo;ve had the chance to explore incredible places including:</p>
+<ul>
+<li>Dubai</li>
+<li>Jordan</li>
+<li>Denmark</li>
+<li>Sweden</li>
+<li>England</li>
+<li>Germany</li>
+<li>Austria</li>
+<li>Italy</li>
+<li>France</li>
+</ul>
+<h2>Looking Ahead</h2>
+<p>In the next year, I plan to:</p>
+<ul>
+<li>Complete the development of <strong>Tacticl</strong></li>
+<li>Rewrite my <strong>discord.py bot</strong> into a scalable project</li>
+<li>Build a companion app using a JavaScript framework I plan to learn this summer</li>
+<li>Update my <strong>LinkedIn</strong> and <strong>GitHub</strong> to better reflect my work and upcoming projects</li>
+</ul>
+<p>Thanks for stopping by and getting to know a bit about me!</p>
+</div>
